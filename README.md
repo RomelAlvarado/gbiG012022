@@ -11,4 +11,4 @@
 ## PROGRAMAS UTILIZADOS
 - GitBash
 - Githud Desktop 3.0.0
-repositorio del curso de bioinformática - Semestre 2022 G01
+
