@@ -1,0 +1,4 @@
+Romel Alvarado, Análisis simple de datos
+Archivo usado: n1.txt
+Número de filas: 97
+Número de columnas: 80
