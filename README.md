@@ -5,7 +5,7 @@
 - Archidona
 - Biotecnologia
 ## CARACTERISTICAS DEL EQUIPO
-Nombre del dispositivo	amd-user
+-Nombre del dispositivo	amd-user
 -Procesador	Intel(R) Core(TM) i7-7500U CPU @ 2.70GHz 2.90 GH
 -RAM instalada	8,00 GB
 -Tipo de sistema	Sistema operativo de 64 bits, procesador basado en x64
